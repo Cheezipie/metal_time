@@ -1,0 +1,1 @@
+I basically just made this to be put in something like your .zshrc so that it runs everytime. Really simple, 24 hour time by default but use -12 for 12 hour time (AM/PM). Shows seconds, if you don't want that use -s.
